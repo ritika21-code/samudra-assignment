@@ -1,0 +1,52 @@
+.library{
+    display: flex;
+}
+.searchbox{
+margin-left: auto;
+padding: 23px;
+margin-right: 60px;
+display: flex;
+
+}
+ .library .text{
+    color: #2e8bff;
+    margin-left:50px;
+    font-size:60px;
+}
+.search{
+    font-size: 13px;
+    padding: 14px;
+    width: 244px;
+background-color: black;
+outline: none;
+border: none;
+height: 44px;
+border-radius: 18px 0 0 18px;
+}
+
+.seicon{
+    background-color: black;
+    color: white;
+  height: 42px;
+  padding: 1px;
+  border-radius:  0 18px 18px 0 ;
+}
+.items{
+ margin-left: 50px;
+ color: #6f7378;
+ border-bottom: 1.6px solid #1e2022;   
+}
+.item{
+    margin: 13px;
+    font-size: 19px;
+    cursor: pointer;
+}
+.btn{
+    color: white;
+    padding: 9px;
+    margin-left: 243px;
+    border-radius: 21px;
+    background-color: #323337;
+    outline: none;
+    border: none;
+}
